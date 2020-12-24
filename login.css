@@ -1,0 +1,11 @@
+input[type=text]
+input[type=password]{width: 100%;padding: 10px 20px;margin: 8px 0;display: inline-block;border: 1px solid ;box-sizing: border-box;}
+button {
+    background-color: blueviolet;
+    color: white;padding: 15px 20px;margin: 8px 0;cursor: pointer;width: 100%;
+}
+.form {
+    background-color:whitesmoke;margin: 5% auto 15% auto;
+    padding: 20px;border: 1px solid black;width: 80%;
+}
+
